@@ -1,0 +1,26 @@
+.details-first{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.each{
+    display: flex;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.para{
+    font-weight: 400;
+    color: grey;
+    margin-right: 10px;
+}
+
+.sub-heading{
+    color: rgba(2, 17, 31, 0.748);
+    margin-right: 22px;
+}
